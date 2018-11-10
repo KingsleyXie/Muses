@@ -1,5 +1,6 @@
 <template>
   <v-toolbar color="white">
+
     <v-img
         :src="require('../assets/images/logo.jpg')"
         height="64px"
